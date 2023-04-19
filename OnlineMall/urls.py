@@ -23,6 +23,10 @@ urlpatterns = [
 
     # urlpatterns for products
     path('', include('products.urls')),
+
+    # urlpatterns for reviews
     path('reviews/', include('reviews.urls')),
+
+    # urlpatterns for users
     path('users/', include('users.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
