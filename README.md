@@ -1,12 +1,12 @@
 
 
 ```markdown
-#Ink-point E-Commerce Website
+<h2>Ink-point E-Commerce Website</h2>
 
 Welcome to the Ink-point E-Commerce Website repository! This project is built using Python and the Django framework to create an online platform for buying and selling a variety of products. Users can browse for items, search for specific products, add items to their cart, and place orders. Additionally, the website includes features for product reviews and user authentication.
 
 
-## Table of Contents
+<h4>Table of Contents</h4>
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -15,11 +15,11 @@ Welcome to the Ink-point E-Commerce Website repository! This project is built us
 - [Apps Included](#apps-included)
 - [Contributions](#contributions)
 
-## Introduction
+Introduction
 
 The Ink-point E-Commerce Website provides users with the ability to explore a wide range of products, read reviews, and seamlessly go through the process of selecting items, adding them to their cart, and placing orders. The website also focuses on user authentication to ensure secure access and a personalized experience.
 
-## Features
+ Features
 
 - **Browsing for Items:** Users can browse through a diverse collection of products that are organized into categories for easy navigation.
 
@@ -33,7 +33,7 @@ The Ink-point E-Commerce Website provides users with the ability to explore a wi
 
 - **User Authentication:** The website includes user registration and login functionality to ensure secure access to user-specific features.
 
-## Installation
+ Installation
 
 1. Clone this repository to your local machine using:
 
