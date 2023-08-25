@@ -1,11 +1,10 @@
-Certainly, here's the README.md template for your "In-point" e-commerce website created using Python and Django, with the specified features and apps:
 
 ```markdown
-# In-point E-Commerce Website
+# Ink-point E-Commerce Website
 
 Welcome to the In-point E-Commerce Website repository! This project is built using Python and the Django framework to create a dynamic e-commerce platform. The website offers essential features like browsing for items, efficient search, easy cart management, and smooth order placement.
 
-![In-point E-Commerce Website](screenshot.png)
+![Ink-point E-Commerce Website](screenshot.png)
 
 ## Table of Contents
 
@@ -19,7 +18,7 @@ Welcome to the In-point E-Commerce Website repository! This project is built usi
 
 ## Introduction
 
-The In-point E-Commerce Website is designed to provide users with a modern and enjoyable shopping experience. Whether you're a shopper or a seller, this platform offers a comprehensive solution.
+The Ink-point E-Commerce Website is designed to provide users with a modern and enjoyable shopping experience. Whether you're a shopper or a seller, this platform offers a comprehensive solution.
 
 ## Features
 
@@ -36,13 +35,13 @@ The In-point E-Commerce Website is designed to provide users with a modern and e
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/in-point-ecommerce.git
+   git clone https://github.com/your-username/Ink-point.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd in-point-ecommerce
+   cd Ink-point
    ```
 
 3. Install the required dependencies:
