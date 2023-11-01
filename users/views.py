@@ -10,7 +10,7 @@ def register(request):
     else:
         # Data submitted: process data
         form = RegistrationForm(data=request.post)
-        if form.is_valid:
+        if form.is_valid():
             new_user = form.save()
 
             login(request, new_user)
